@@ -35,11 +35,6 @@ A responsive and interactive **Sorting Visualizer** built using HTML, CSS, and J
 
 ---
 
-## 📷 Preview
-
-![Sorting Visualizer Screenshot](./screenshot.png)
-
----
 
 ## 📚 Learning Outcomes
 
